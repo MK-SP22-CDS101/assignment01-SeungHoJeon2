@@ -28,5 +28,12 @@ urlcolor: blue
 <!-- Write your Markdown below this line -->
 
 
+# Section
+Section 001
 
+# Course Goals
+By the end of the course, students will be able to:
+·Use GitHub for creating a reproducible research document.
 
+My GitHub username is: SeunghoJeon2
+  ·Obtain, clean, transform, and visualize a dataset using the R programming language
